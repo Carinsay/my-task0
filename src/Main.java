@@ -3,7 +3,7 @@ public class Main{
     {
         Person p = new Person();
         p.name = "Carinsay";
-        p.age = 19;
+        p.age = 1;
         p.sayhello();
         int a =  p.sum(7,8);
         System.out.println(a);
